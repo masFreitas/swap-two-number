@@ -1,0 +1,26 @@
+/home/klaathus/Documents/programacao/DS1/TesteMateus/bin/Debug/netcoreapp3.1/TesteMateus
+/home/klaathus/Documents/programacao/DS1/TesteMateus/bin/Debug/netcoreapp3.1/TesteMateus.deps.json
+/home/klaathus/Documents/programacao/DS1/TesteMateus/bin/Debug/netcoreapp3.1/TesteMateus.runtimeconfig.json
+/home/klaathus/Documents/programacao/DS1/TesteMateus/bin/Debug/netcoreapp3.1/TesteMateus.runtimeconfig.dev.json
+/home/klaathus/Documents/programacao/DS1/TesteMateus/bin/Debug/netcoreapp3.1/TesteMateus.dll
+/home/klaathus/Documents/programacao/DS1/TesteMateus/bin/Debug/netcoreapp3.1/TesteMateus.pdb
+/home/klaathus/Documents/programacao/DS1/TesteMateus/obj/Debug/netcoreapp3.1/TesteMateus.csprojAssemblyReference.cache
+/home/klaathus/Documents/programacao/DS1/TesteMateus/obj/Debug/netcoreapp3.1/TesteMateus.AssemblyInfoInputs.cache
+/home/klaathus/Documents/programacao/DS1/TesteMateus/obj/Debug/netcoreapp3.1/TesteMateus.AssemblyInfo.cs
+/home/klaathus/Documents/programacao/DS1/TesteMateus/obj/Debug/netcoreapp3.1/TesteMateus.csproj.CoreCompileInputs.cache
+/home/klaathus/Documents/programacao/DS1/TesteMateus/obj/Debug/netcoreapp3.1/TesteMateus.dll
+/home/klaathus/Documents/programacao/DS1/TesteMateus/obj/Debug/netcoreapp3.1/TesteMateus.pdb
+/home/klaathus/Documents/programacao/DS1/TesteMateus/obj/Debug/netcoreapp3.1/TesteMateus.genruntimeconfig.cache
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 1 de programacao\TesteMateus\bin\Debug\netcoreapp3.1\TesteMateus.exe
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 1 de programacao\TesteMateus\bin\Debug\netcoreapp3.1\TesteMateus.deps.json
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 1 de programacao\TesteMateus\bin\Debug\netcoreapp3.1\TesteMateus.runtimeconfig.json
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 1 de programacao\TesteMateus\bin\Debug\netcoreapp3.1\TesteMateus.runtimeconfig.dev.json
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 1 de programacao\TesteMateus\bin\Debug\netcoreapp3.1\TesteMateus.dll
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 1 de programacao\TesteMateus\bin\Debug\netcoreapp3.1\TesteMateus.pdb
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 1 de programacao\TesteMateus\obj\Debug\netcoreapp3.1\TesteMateus.csprojAssemblyReference.cache
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 1 de programacao\TesteMateus\obj\Debug\netcoreapp3.1\TesteMateus.AssemblyInfoInputs.cache
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 1 de programacao\TesteMateus\obj\Debug\netcoreapp3.1\TesteMateus.AssemblyInfo.cs
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 1 de programacao\TesteMateus\obj\Debug\netcoreapp3.1\TesteMateus.csproj.CoreCompileInputs.cache
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 1 de programacao\TesteMateus\obj\Debug\netcoreapp3.1\TesteMateus.dll
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 1 de programacao\TesteMateus\obj\Debug\netcoreapp3.1\TesteMateus.pdb
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 1 de programacao\TesteMateus\obj\Debug\netcoreapp3.1\TesteMateus.genruntimeconfig.cache
